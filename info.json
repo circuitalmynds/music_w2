@@ -2,10 +2,15 @@
     "available_space": true,
     "files": [
         {
+            "name": "João Gilberto - 29 - Corcovado-FCcGSSe64Ng.mp4",
+            "path": "music_w2/videos/João Gilberto - 29 - Corcovado-FCcGSSe64Ng.mp4",
+            "size": 2.8836331520000003
+        },
+        {
             "name": "João Gilberto - 26 - Presente de Natal-7XdMVsdUS4c.mp4",
             "path": "music_w2/videos/João Gilberto - 26 - Presente de Natal-7XdMVsdUS4c.mp4",
             "size": 2.8610099200000003
         }
     ],
-    "total_size": 2.8610099200000003
+    "total_size": 5.744643072000001
 }
