@@ -1,76 +1,91 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Mina - Studio Uno (Original complete album of 1965)-u60H_vx0Z4E.mp4",
-            "path": "music_w2/videos/Mina - Studio Uno (Original complete album of 1965)-u60H_vx0Z4E.mp4",
-            "size": 43.239801856
+            "path": "w2/videos/Mina - Studio Uno (Original complete album of 1965)-u60H_vx0Z4E.mp4",
+            "size": 43.239801856,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Mina - Studio Uno (Original complete album of 1965)-u60H_vx0Z4E.mp4?raw=true"
         },
         {
             "name": "Ray Noble - Japanese Sandman (1933)-ODoXd3U9agc.mp4",
-            "path": "music_w2/videos/Ray Noble - Japanese Sandman (1933)-ODoXd3U9agc.mp4",
-            "size": 12.259122176
+            "path": "w2/videos/Ray Noble - Japanese Sandman (1933)-ODoXd3U9agc.mp4",
+            "size": 12.259122176,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Ray Noble - Japanese Sandman (1933)-ODoXd3U9agc.mp4?raw=true"
         },
         {
             "name": "Al Mundo Le Falta un Tornillo-j4dYKvIcbwE.mp4",
-            "path": "music_w2/videos/Al Mundo Le Falta un Tornillo-j4dYKvIcbwE.mp4",
-            "size": 3.0637056
+            "path": "w2/videos/Al Mundo Le Falta un Tornillo-j4dYKvIcbwE.mp4",
+            "size": 3.0637056,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Al Mundo Le Falta un Tornillo-j4dYKvIcbwE.mp4?raw=true"
         },
         {
             "name": "Johann Strauss Sohn - Champagner polka, Musikalischer scherz, Op. 211-Dv3HPfTS1jA.mp4",
-            "path": "music_w2/videos/Johann Strauss Sohn - Champagner polka, Musikalischer scherz, Op. 211-Dv3HPfTS1jA.mp4",
-            "size": 5.450549248000001
+            "path": "w2/videos/Johann Strauss Sohn - Champagner polka, Musikalischer scherz, Op. 211-Dv3HPfTS1jA.mp4",
+            "size": 5.450549248000001,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Johann Strauss Sohn - Champagner polka, Musikalischer scherz, Op. 211-Dv3HPfTS1jA.mp4?raw=true"
         },
         {
             "name": "Conjunto Primavera - La Celda 27-GrqgPzc_zWk.mp4",
-            "path": "music_w2/videos/Conjunto Primavera - La Celda 27-GrqgPzc_zWk.mp4",
-            "size": 8.247232512
+            "path": "w2/videos/Conjunto Primavera - La Celda 27-GrqgPzc_zWk.mp4",
+            "size": 8.247232512,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Conjunto Primavera - La Celda 27-GrqgPzc_zWk.mp4?raw=true"
         },
         {
             "name": "Everyone's Wrong But Me-jcQbsedtvH4.mp4",
-            "path": "music_w2/videos/Everyone's Wrong But Me-jcQbsedtvH4.mp4",
-            "size": 3.374148608
+            "path": "w2/videos/Everyone's Wrong But Me-jcQbsedtvH4.mp4",
+            "size": 3.374148608,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Everyone's Wrong But Me-jcQbsedtvH4.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 09 - Lobo Bobo-GXxfZSgVsQ0.mp4",
-            "path": "music_w2/videos/João Gilberto - 09 - Lobo Bobo-GXxfZSgVsQ0.mp4",
-            "size": 1.985980416
+            "path": "w2/videos/João Gilberto - 09 - Lobo Bobo-GXxfZSgVsQ0.mp4",
+            "size": 1.985980416,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/João Gilberto - 09 - Lobo Bobo-GXxfZSgVsQ0.mp4?raw=true"
         },
         {
             "name": "Laid Back - Don't Shoot The Sun Down--rJnSeacVsA.mp4",
-            "path": "music_w2/videos/Laid Back - Don't Shoot The Sun Down--rJnSeacVsA.mp4",
-            "size": 9.022348288
+            "path": "w2/videos/Laid Back - Don't Shoot The Sun Down--rJnSeacVsA.mp4",
+            "size": 9.022348288,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Laid Back - Don't Shoot The Sun Down--rJnSeacVsA.mp4?raw=true"
         },
         {
             "name": "Peter Brown - Dance With Me 1978-pwz7cerVuKE.mp4",
-            "path": "music_w2/videos/Peter Brown - Dance With Me 1978-pwz7cerVuKE.mp4",
-            "size": 23.961765888000002
+            "path": "w2/videos/Peter Brown - Dance With Me 1978-pwz7cerVuKE.mp4",
+            "size": 23.961765888000002,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Peter Brown - Dance With Me 1978-pwz7cerVuKE.mp4?raw=true"
         },
         {
             "name": "Pachanga Boys - Time-fOMW74UJWII.mp4",
-            "path": "music_w2/videos/Pachanga Boys - Time-fOMW74UJWII.mp4",
-            "size": 18.843565056000003
+            "path": "w2/videos/Pachanga Boys - Time-fOMW74UJWII.mp4",
+            "size": 18.843565056000003,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Pachanga Boys - Time-fOMW74UJWII.mp4?raw=true"
         },
         {
             "name": "Skryabin - Etude dis-moll op.8 No.12 Patetic Скрябин - Патетический этюд-OSGFg7gWpjs.mp4",
-            "path": "music_w2/videos/Skryabin - Etude dis-moll op.8 No.12 Patetic Скрябин - Патетический этюд-OSGFg7gWpjs.mp4",
-            "size": 4.26765312
+            "path": "w2/videos/Skryabin - Etude dis-moll op.8 No.12 Patetic Скрябин - Патетический этюд-OSGFg7gWpjs.mp4",
+            "size": 4.26765312,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Skryabin - Etude dis-moll op.8 No.12 Patetic Скрябин - Патетический этюд-OSGFg7gWpjs.mp4?raw=true"
         },
         {
             "name": "Digital Emotion ‎– You'll Be Mine-VRpAkjyHrPM.mp4",
-            "path": "music_w2/videos/Digital Emotion ‎– You'll Be Mine-VRpAkjyHrPM.mp4",
-            "size": 10.096933888
+            "path": "w2/videos/Digital Emotion ‎– You'll Be Mine-VRpAkjyHrPM.mp4",
+            "size": 10.096933888,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Digital Emotion ‎– You'll Be Mine-VRpAkjyHrPM.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 29 - Corcovado-FCcGSSe64Ng.mp4",
-            "path": "music_w2/videos/João Gilberto - 29 - Corcovado-FCcGSSe64Ng.mp4",
-            "size": 2.8836331520000003
+            "path": "w2/videos/João Gilberto - 29 - Corcovado-FCcGSSe64Ng.mp4",
+            "size": 2.8836331520000003,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/João Gilberto - 29 - Corcovado-FCcGSSe64Ng.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 26 - Presente de Natal-7XdMVsdUS4c.mp4",
-            "path": "music_w2/videos/João Gilberto - 26 - Presente de Natal-7XdMVsdUS4c.mp4",
-            "size": 2.8610099200000003
+            "path": "w2/videos/João Gilberto - 26 - Presente de Natal-7XdMVsdUS4c.mp4",
+            "size": 2.8610099200000003,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/João Gilberto - 26 - Presente de Natal-7XdMVsdUS4c.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 149.557449728
 }
