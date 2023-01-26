@@ -9,6 +9,20 @@
             "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Mina - Studio Uno (Original complete album of 1965)-u60H_vx0Z4E.mp4?raw=true"
         },
         {
+            "id": "pwz7cerVuKE",
+            "name": "Peter Brown - Dance With Me (Original 12 inch Mix) 1978-pwz7cerVuKE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w2/videos/Peter Brown - Dance With Me (Original 12 inch Mix) 1978-pwz7cerVuKE.mp4",
+            "size": 19.484557,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Peter Brown - Dance With Me (Original 12 inch Mix) 1978-pwz7cerVuKE.mp4?raw=true"
+        },
+        {
+            "id": "fOMW74UJWII",
+            "name": "Pachanga -  Boys   Time-fOMW74UJWII.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/w2/videos/Pachanga -  Boys   Time-fOMW74UJWII.mp4",
+            "size": 16.36522,
+            "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/Pachanga -  Boys   Time-fOMW74UJWII.mp4?raw=true"
+        },
+        {
             "id": "ODoXd3U9agc",
             "name": "Ray Noble - Japanese Sandman (1933)-ODoXd3U9agc.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/w2/videos/Ray Noble - Japanese Sandman (1933)-ODoXd3U9agc.mp4",
@@ -247,5 +261,5 @@
             "url": "https://github.com/circuitalmynds/music_w2/blob/main/videos/João Gilberto - 26 - Presente de Natal-7XdMVsdUS4c.mp4?raw=true"
         }
     ],
-    "total_size": 975.2221209999998
+    "total_size": 1011.0718979999999
 }
